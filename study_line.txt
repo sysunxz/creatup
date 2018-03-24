@@ -1,1 +1,27 @@
+1. about how shall I use git
 https://www.zhihu.com/question/20070065
+2. First topic 计算机体系结构
+https://www.zhihu.com/question/59057984
+3. Sec 算法
+course
+https://www.nowcoder.com/live/2
+http://open.163.com/special/opencourse/algorithms.html
+book
+https://book.douban.com/subject/19952400/
+
+https://www.zhihu.com/question/19981544
+https://www.zhihu.com/question/19981544
+
+4. T 编译原理
+
+https://www.zhihu.com/question/21515496
+https://www.zhihu.com/question/23460933
+https://www.zhihu.com/question/22482295
+book
+http://vdisk.weibo.com/s/AcSJGKVz_XiTy?category_id=0&parents_ref=AcSJGKVz_X6Sx
+6. AI
+https://www.zhihu.com/lives/937748833074196480
+
+7.All
+https://www.zhihu.com/lives/782956075455381504
+https://www.zhihu.com/lives/888458416731856896
